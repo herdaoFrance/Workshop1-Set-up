@@ -4,13 +4,13 @@
 🧵 Nous allons partir d’un fil rouge : déployer son premier smart contract sur Ethereum. Nous n’allons pas rentrer dans les détails technique, cela sera dans les prochains workshop. Pour l’instant, c'est au travers de notre premier smart contract, que nous allons installer tout les outils nécessaires pour développer sur différentes blockchain. 
 
 ## Pourquoi installer ces softwares, et logiciel ?
-—> Gagner du temps 
+✔️ Gagner du temps 
 
-—> Coder sur Ethereum, Algorand, Solana …
+✔️ Coder sur Ethereum, Algorand, Solana …
 
-—> Suivre des tutos assez simplement car les programmes seront déjà installés
+✔️ Suivre des tutos assez simplement car les programmes seront déjà installés
 
-—> Utile pour les hackathons, mais aussi pour de futur opportunités ( mission de freelance, carrière dans le web3 en tant que dev … )
+✔️ Utile pour les hackathons, mais aussi pour de futur opportunités ( mission de freelance, carrière dans le web3 en tant que dev … )
 
 <details>
   <summary><h1>Installation des logiciels principaux</h1></summary>
