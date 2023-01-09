@@ -35,13 +35,21 @@ Mais Visual Studio Code à l’avantage de relier plusieurs application, tel que
   ```
   
   - Le terminal: déjà installer sur VS Code. Voici les commandes prinipales sur le terminal. 
+  
   **`ls`**: affiche la liste des fichiers et des répertoires dans le répertoire courant
+  
   **`cd`**: change de répertoire
+  
   **`mkdir`**: crée un nouveau répertoire
+  
   **`touch`**: crée un nouveau fichier vide
+  
   **`rm`  :**  supprime un répertoire
+  
   **`rm -r <nom du fichier>` :** supprime un fichier 
+  
   **`echo`**: affiche du texte à l'écran
+  
 </details>
   
   
