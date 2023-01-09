@@ -1,4 +1,4 @@
-# Workshop1
+# Workshop1 - Set up ton environnement 
 👾Bienvenue pour ce premier workshop ;) 
 
 🧵 Nous allons partir d’un fil rouge : déployer son premier smart contract sur Ethereum. Nous n’allons pas rentrer dans les détails technique, cela sera dans les prochains workshop. Pour l’instant, c'est au travers de notre premier smart contract, que nous allons installer tout les outils nécessaires pour développer sur différentes blockchain. 
@@ -13,7 +13,7 @@
 —> Utile pour les hackathons, mais aussi pour de futur opportunités ( mission de freelance, carrière dans le web3 en tant que dev … )
 
 <details>
-<summary>Installation des software principaux </summary>
+  <summary><h1>Installation des software principaux</h1></summary>
   
   - Visual Studio Code
   Comme pour un peintre, il faut sa toile. La developeuse à besoin de son environnement de programmation pour coder.  Il en existe plein sur le marché, Sublim text, Vim ect …  
@@ -50,15 +50,18 @@ Mais Visual Studio Code à l’avantage de relier plusieurs application, tel que
   
 <details>
   <summary><h1>Les outils de la développeuse</h1></summary> 
-  -Github : l'outils open source
+  - Github : l'outils open source
   C'est le plateform permettant d'échanger du code entre dév, et même d'interragir entre nous sur le code. 
 Pour s'approprier un peu l'outil, nous allons forker le projet. Un fork c’est une copie d’un dépôt. Cette opération nous permettra de copier le projet sans le modifier. Le pont entre Github et notre éditeur de code (Visual Studio Code), sera GIthub Destkop 
   
   - Github Desktop : 
   [GitHub Desktop](https://desktop.github.com/)
 </details>
-👉🏽 
-
+👉🏽 Forker le projet Workshop1 dans votre ordinateur en local. 
+1. Dans ton Github, ajoute un nouveau répertoire 
+2. Clone le projet dans ton ordinateur en local 
+3. Depuis GithubDesktop, ouvre Visual Studio Code. 
+4. Done, tu as forker ton premier projet 🔆
 
 <details>
 
