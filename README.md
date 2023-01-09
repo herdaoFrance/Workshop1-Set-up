@@ -13,7 +13,7 @@
 —> Utile pour les hackathons, mais aussi pour de futur opportunités ( mission de freelance, carrière dans le web3 en tant que dev … )
 
 <details>
-  ##<summary>Installation des software principaux </summary>
+<summary>Installation des software principaux </summary>
   
   - Visual Studio Code
   Comme pour un peintre, il faut sa toile. La developeuse à besoin de son environnement de programmation pour coder.  Il en existe plein sur le marché, Sublim text, Vim ect …  
@@ -29,12 +29,12 @@ Mais Visual Studio Code à l’avantage de relier plusieurs application, tel que
   npm run build 
   ```
   
-  - Installation de yarn ( similaire à npm, c'est un gestionnaire de paquet, permettant l'installation des bibliothèques et des librairies. 
-    ```bash
+  - Installation de yarn ( similaire à npm, c'est un gestionnaire de paquet, permettant l'installation des bibliothèques et des librairies).
+  ```bash
   npm install yarn
   ```
   
-  Le terminal: déjà installer sur VS Code. Voici les commandes prinipales sur le terminal. 
+  - Le terminal: déjà installer sur VS Code. Voici les commandes prinipales sur le terminal. 
   **`ls`**: affiche la liste des fichiers et des répertoires dans le répertoire courant
   **`cd`**: change de répertoire
   **`mkdir`**: crée un nouveau répertoire
@@ -42,8 +42,9 @@ Mais Visual Studio Code à l’avantage de relier plusieurs application, tel que
   **`rm`  :**  supprime un répertoire
   **`rm -r <nom du fichier>` :** supprime un fichier 
   **`echo`**: affiche du texte à l'écran
-  
 </details>
+  
+  
 👉🏽 A partir de votre terminal, placez-vous dans le dossier “Document” . Puis, créée un nouveau dossier appelé “H.E.R DAO”
 
   
