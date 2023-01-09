@@ -13,7 +13,7 @@
 —> Utile pour les hackathons, mais aussi pour de futur opportunités ( mission de freelance, carrière dans le web3 en tant que dev … )
 
 <details>
-  <summary><h1>Installation des software principaux</h1></summary>
+  <summary><h1>Installation des logiciels principaux</h1></summary>
   
   - Visual Studio Code
   Comme pour un peintre, il faut sa toile. La developeuse à besoin de son environnement de programmation pour coder.  Il en existe plein sur le marché, Sublim text, Vim ect …  
