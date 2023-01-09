@@ -16,11 +16,13 @@
   <summary><h1>Installation des logiciels principaux</h1></summary>
   
   - Visual Studio Code
+  
   Comme pour un peintre, il faut sa toile. La developeuse à besoin de son environnement de programmation pour coder.  Il en existe plein sur le marché, Sublim text, Vim ect …  
 Mais Visual Studio Code à l’avantage de relier plusieurs application, tel que Github et d’être assez ergonomique. 
   https://visualstudio.microsoft.com/fr/downloads/
   
   - Installation de node js 
+  
   NPM (Node Package Manager) est un gestionnaire de paquets permettant l’installation facile des modules (bibliothèques de code) qui peuvent être utilisés dans votre projet  
   [Node.js](https://nodejs.org/en/)
   ```bash
@@ -59,7 +61,9 @@ Mais Visual Studio Code à l’avantage de relier plusieurs application, tel que
 <details>
   <summary><h1>Les outils de la développeuse</h1></summary> 
   - Github : l'outils open source
-  C'est le plateform permettant d'échanger du code entre dév, et même d'interragir entre nous sur le code. 
+  
+  C'est LA plateforme permettant d'échanger du code entre dév, de stocker et de gérer notre code, ainsi que de travailler en collaboration sur des projets de développement de logiciels. 
+  
 Pour s'approprier un peu l'outil, nous allons forker le projet. Un fork c’est une copie d’un dépôt. Cette opération nous permettra de copier le projet sans le modifier. Le pont entre Github et notre éditeur de code (Visual Studio Code), sera GIthub Destkop 
   
   - Github Desktop : 
@@ -67,8 +71,11 @@ Pour s'approprier un peu l'outil, nous allons forker le projet. Un fork c’est
 </details>
 👉🏽 Forker le projet Workshop1 dans votre ordinateur en local. 
 1. Dans ton Github, ajoute un nouveau répertoire 
+  
 2. Clone le projet dans ton ordinateur en local 
+  
 3. Depuis GithubDesktop, ouvre Visual Studio Code. 
+  
 4. Done, tu as forker ton premier projet 🔆
 
 <details>
@@ -78,9 +85,13 @@ Nous avons maintenant à peu près tous les outils dans notre trousse nous perme
 Pour le moment, voyons comment déployer un smart contract sur Ethereum. 
 
 ✌🏽 Pas de panique l'objectif n'est pas de tout comprendre, simplement de prendre en main les outils principaux. 
-  - Installation de solidity sur VS CODE 
+  
+  - Installation de solidity sur VS CODE
+  
   Dans extension, il est possible de télécharger les langages de programmations que l'on souhaite.
+  
   - Installation de Hardhat 
+  
   Pour écrire un smart contract, nous avons besoin d’un outil de développement de smart contract, visant à simplifier le processus de construction, de déploiement et de test de ces contrats. Les plus utilisés sont Hardhat, Truffle, Brownie, Ganache et Remix. Nous n’allons pas tous les utiliser, mais ils fonctionnent à peu près tous de la même façon. 
 Pour notre fil rouge, nous allons installer hardhat. 
   ```bash
