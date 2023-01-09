@@ -6,7 +6,7 @@
 ## Pourquoi installer ces softwares, et logiciel ?
 ✔️ Gagner du temps 
 
-✔️ Coder sur Ethereum, Algorand, Solana …
+✔️ Coder sur différentes blockchain : Ethereum, Algorand, Solana …
 
 ✔️ Suivre des tutos assez simplement car les programmes seront déjà installés
 
