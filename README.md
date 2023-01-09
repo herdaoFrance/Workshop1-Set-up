@@ -13,16 +13,76 @@
 —> Utile pour les hackathons, mais aussi pour de futur opportunités ( mission de freelance, carrière dans le web3 en tant que dev … )
 
 <details>
-  <summary>Installation des software principaux </summary>
+  <summary>##Installation des software principaux </summary>
   
-  ### Visual Studio Code
+  - Visual Studio Code
+  Comme pour un peintre, il faut sa toile. La developeuse à besoin de son environnement de programmation pour coder.  Il en existe plein sur le marché, Sublim text, Vim ect …  
+Mais Visual Studio Code à l’avantage de relier plusieurs application, tel que Github et d’être assez ergonomique. 
   https://visualstudio.microsoft.com/fr/downloads/
   
-  ### Installation de npm  
+  - Installation de node js 
+  NPM (Node Package Manager) est un gestionnaire de paquets permettant l’installation facile des modules (bibliothèques de code) qui peuvent être utilisés dans votre projet  
   [Node.js](https://nodejs.org/en/)
   ```bash
   npm -v 
   npm install <library-name> 
   npm run build 
   ```
+  
+  - Installation de yarn ( similaire à npm, c'est un gestionnaire de paquet, permettant l'installation des bibliothèques et des librairies. 
+    ```bash
+  npm install yarn
+  ```
+  
+  Le terminal: déjà installer sur VS Code. Voici les commandes prinipales sur le terminal. 
+  **`ls`**: affiche la liste des fichiers et des répertoires dans le répertoire courant
+
+**`cd`**: change de répertoire
+
+**`mkdir`**: crée un nouveau répertoire
+
+**`touch`**: crée un nouveau fichier vide
+
+**`rm`  :**  supprime un répertoire
+
+**`rm -r <nom du fichier>` :** supprime un fichier 
+
+**`echo`**: affiche du texte à l'écran
 </details>
+
+👉🏽 A partir de votre terminal, placez-vous dans le dossier “Document” . Puis, créée un nouveau dossier appelé “H.E.R DAO”
+
+<details>
+  <summary>Les outils de la développeuse</summary> 
+  -Github : l'outils open source
+  C'est le plateform permettant d'échanger du code entre dév, et même d'interragir entre nous sur le code. 
+Pour s'approprier un peu l'outil, nous allons forker le projet. Un fork c’est une copie d’un dépôt. Cette opération nous permettra de copier le projet sans le modifier. Le pont entre Github et notre éditeur de code (Visual Studio Code), sera GIthub Destkop 
+  
+  - Github Desktop : 
+  [GitHub Desktop](https://desktop.github.com/)
+</details>
+👉🏽 
+
+
+<details>
+
+<summary>Coder sur une blockchain</summary>
+Nous avons maintenant à peu près tous les outils dans notre trousse nous permettant de coder. Mais, chaque blockchain à un environnement et un langage bien spécifique. Par exemple Ethereum utilise le langage de programmation Solidity pour ces smarts contracts. Et nous allons explorer cela. Mais, Algorand par exemple, utilise un autre environnement de programmation, et nous verrons cela lors du prochain workshop. 
+Pour le moment, voyons comment déployer un smart contract sur Ethereum. 
+
+✌🏽 Pas de panique l'objectif n'est pas de tout comprendre, simplement de prendre en main les outils principaux. 
+  - Installation de solidity sur VS CODE
+  Dans extension, il est possible de télécharger les langages de programmations que l'on souhaite.
+  - Installation de Hardhat 
+  Pour écrire un smart contract, nous avons besoin d’un outil de développement de smart contract, visant à simplifier le processus de construction, de déploiement et de test de ces contrats. Les plus utilisés sont Hardhat, Truffle, Brownie, Ganache et Remix. Nous n’allons pas tous les utiliser, mais ils fonctionnent à peu près tous de la même façon. 
+Pour notre fil rouge, nous allons installer hardhat. 
+  ```bash
+  npm install --save-dev hardhat
+  ```
+</details>
+👉🏽 Créez un nouveau projet 'javaScript project", valider toutes les optionnalités. Supprimez tous les fichiers dans le dossier *contracts* et intégrer le fichier forker précèdement. 
+
+
+✅ Vous avez maintenant tous les outils nécessaire pour commencer à coder ! 
+Have fun xxx
+ 
