@@ -101,6 +101,8 @@ Pour notre fil rouge, nous allons installer hardhat.
 👉🏽 Créez un nouveau projet 'javaScript project", valider toutes les optionnalités. Supprimez tous les fichiers dans le dossier *contracts* et intégrer le fichier forker précèdement. 
 
 
+
 ✅ Vous avez maintenant tous les outils nécessaire pour commencer à coder ! 
+
 Have fun xxx
  
