@@ -111,7 +111,7 @@ Voyons une liste des termes couramment utilisé sur Github:
 
   1. Retourne sur le lien du code source (https://github.com/ayabelarbi/Workshop1-smartcontract.git)
   
-  2. Copie le lien, puis inclus le dans Github Desktop
+  2. Copie le lien, puis inclus le dans Github Desktop. (cette fois-ci nous faisons un clône du répertoire principal) 
   
   3. 
   
