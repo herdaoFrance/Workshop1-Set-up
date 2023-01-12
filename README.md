@@ -64,7 +64,28 @@ Mais Visual Studio Code à l’avantage de relier plusieurs application, tel que
   
   C'est LA plateforme permettant d'échanger du code entre dév, de stocker et de gérer notre code, ainsi que de travailler en collaboration sur des projets de développement de logiciels. 
   
-Pour s'approprier un peu l'outil, nous allons forker le projet. Un fork c’est une copie d’un dépôt. Cette opération nous permettra de copier le projet sans le modifier. Le pont entre Github et notre éditeur de code (Visual Studio Code), sera GIthub Destkop 
+Pour s'approprier un peu l'outil, nous allons forker le projet, puis nous allons créer une nouvelle branche afin d'apporter de rajouter votre nom dans le smart contract. Mais, qu'est ce fork, branche ?? 👀
+
+Voyons une liste des termes couramment utilisé sur Github: 
+
+  **`dépôt (repository):`** espace de stockage centralisé pour les fichiers d'un projet.
+  
+  **`commit:`** enregistrement des modifications apportées aux fichiers dans le dépôt.
+  
+    **`branche (branch):`** une version séparée du dépôt qui permet de travailler sur des fonctionnalités spécifiques sans affecter la version principale (master).
+
+  **`clône :`**une copie locale d'un dépôt sur votre ordinateur.
+
+  **`forks:`** copie du dépôt d'origine sur votre compte GitHub.
+
+  **`demande de fusion: (pull request):`**demande d'intégration des modifications d'une branche à une autre.
+
+  **`issues:`**section de gestion des bugs et des améliorations proposées pour un projet.
+
+
+
+
+Un fork c’est une copie d’un dépôt. Cette opération nous permettra de copier le projet sans le modifier. Le pont entre Github et notre éditeur de code (Visual Studio Code), sera GIthub Destkop 
   
   - Github Desktop : 
   [GitHub Desktop](https://desktop.github.com/)
