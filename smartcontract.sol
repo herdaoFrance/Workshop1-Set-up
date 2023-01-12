@@ -1,10 +1,5 @@
 //SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
-// Ici vous pouvez ajouter votre contribution en commentaire
-
-//solene
-
-// Coucou Kelly 
 
 // Définition du contrat NFT
 contract NFT {
