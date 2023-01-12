@@ -60,8 +60,9 @@ Mais Visual Studio Code à l’avantage de relier plusieurs application, tel que
   
 <details>
   <summary><h1>Les outils de la développeuse</h1></summary> 
-  - Github : l'outils open source
-  
+    
+  - Github : l'outil open source
+
   C'est LA plateforme permettant d'échanger du code entre dév, de stocker et de gérer notre code, ainsi que de travailler en collaboration sur des projets de développement de logiciels. 
   
 Pour s'approprier un peu l'outil, nous allons forker le projet, puis nous allons créer une nouvelle branche afin d'apporter de rajouter votre nom dans le smart contract. Mais, qu'est ce fork, branche ?? 👀
@@ -87,19 +88,33 @@ Voyons une liste des termes couramment utilisé sur Github:
   [GitHub Desktop](https://desktop.github.com/)
 </details>
 
-👉🏽 Forker le projet Workshop1 dans votre ordinateur en local. 
+👉🏽 Forker le projet Workshop1 dans ton Github 
 1. Dans ton Github, fork le projet à partir du boutton en haut à gauche 'fork'
   
-2. Clone le projet dans ton ordinateur en local 
+2. Retourne dans 'your repository' (tes dépôts)
   
-3. Depuis GithubDesktop, ouvre Visual Studio Code. 
+3. Done, il est maintenant disponible dans tes repertoires GitHub ! tu as forker ton premier projet, 🔆
+
+👉🏽 Clone le repository sur ton ordinateur en local 
+1. Dans tes repository, appuie sur le bouton vers 'code' 
+
+  2. Puis copie le lien, et rendez-vous sur Github Desktop
   
-4. Done, tu as forker ton premier projet 🔆
+  3. Dans 'add', vous pouvez selectionner 'clone a repository' (clôner un répertoire) 
+  
+  4. Selectionne le 'local path' que nous venons de créer via notre terminal. 
+  
+  5. Done, il est maintenant disponible dans tes repertoires locales, sur ton ordinateur ! tu as clôner ton premier projet, 🔆
 
-👉🏽 Contribuer et effectuer ses première modification sur le smart contract.  
-1. 
+👉🏽 Contribuer sur le smart contract de la branche principal. 
 
-
+  1. Retourne sur le lien du code source (https://github.com/ayabelarbi/Workshop1-smartcontract.git)
+  
+  2. Copie le lien, puis inclus le dans Github Desktop
+  
+  3. 
+  
+  
 <details>
 
   <summary><h1>Coder sur une blockchain</h1></summary>
