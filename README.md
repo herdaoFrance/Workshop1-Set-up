@@ -95,8 +95,8 @@ Voyons une liste des termes couramment utilisé sur Github:
   
 3. Done, il est maintenant disponible dans tes repertoires GitHub ! tu as forker ton premier projet, 🔆
 
-👉🏽 Clone le repository sur ton ordinateur en local 
-1. Dans tes repository, appuie sur le bouton vers 'code' 
+👉🏽 Clône le repository sur ton ordinateur en local 
+  1. Dans tes repository, appuie sur le bouton vert 'code' 
 
   2. Puis copie le lien, et rendez-vous sur Github Desktop
   
@@ -105,6 +105,7 @@ Voyons une liste des termes couramment utilisé sur Github:
   4. Selectionne le 'local path' que nous venons de créer via notre terminal. 
   
   5. Done, il est maintenant disponible dans tes repertoires locales, sur ton ordinateur ! tu as clôner ton premier projet, 🔆
+  
 
 👉🏽 Contribuer sur le smart contract de la branche principal. 
 
