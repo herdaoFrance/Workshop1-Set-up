@@ -65,7 +65,7 @@ Mais Visual Studio Code à l’avantage de relier plusieurs application, tel que
 
   C'est LA plateforme permettant d'échanger du code entre dév, de stocker et de gérer notre code, ainsi que de travailler en collaboration sur des projets de développement de logiciels. 
   
-Pour s'approprier un peu l'outil, nous allons forker le projet, puis nous allons créer une nouvelle branche afin de rajouter votre nom en commentaire dans le smart contract. Mais, qu'est ce fork, branche ?? 👀
+Pour s'approprier un peu l'outil, nous allons forker le projet, puis nous allons clôner notre répertoire sur notre ordinateur . Mais, qu'est ce fork, et clone ?? 👀
 
 Voyons une liste des termes couramment utilisé sur Github: 
 
