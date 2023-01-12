@@ -72,7 +72,7 @@ Voyons une liste des termes couramment utilisé sur Github:
   
   **`commit:`** enregistrement des modifications apportées aux fichiers dans le dépôt.
   
-    **`branche (branch):`** une version séparée du dépôt qui permet de travailler sur des fonctionnalités spécifiques sans affecter la version principale (master).
+  **`branche (branch):`** une version séparée du dépôt qui permet de travailler sur des fonctionnalités spécifiques sans affecter la version principale (master).
 
   **`clône :`**une copie locale d'un dépôt sur votre ordinateur.
 
@@ -83,21 +83,22 @@ Voyons une liste des termes couramment utilisé sur Github:
   **`issues:`**section de gestion des bugs et des améliorations proposées pour un projet.
 
 
-
-
-Un fork c’est une copie d’un dépôt. Cette opération nous permettra de copier le projet sans le modifier. Le pont entre Github et notre éditeur de code (Visual Studio Code), sera GIthub Destkop 
-  
   - Github Desktop : 
   [GitHub Desktop](https://desktop.github.com/)
 </details>
+
 👉🏽 Forker le projet Workshop1 dans votre ordinateur en local. 
-1. Dans ton Github, ajoute un nouveau répertoire 
+1. Dans ton Github, fork le projet à partir du boutton en haut à gauche 'fork'
   
 2. Clone le projet dans ton ordinateur en local 
   
 3. Depuis GithubDesktop, ouvre Visual Studio Code. 
   
 4. Done, tu as forker ton premier projet 🔆
+
+👉🏽 Contribuer et effectuer ses première modification sur le smart contract.  
+1. 
+
 
 <details>
 
