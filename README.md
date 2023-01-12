@@ -74,13 +74,13 @@ Voyons une liste des termes couramment utilisé sur Github:
   
   **`branche`**(branch) : une version séparée du dépôt qui permet de travailler sur des fonctionnalités spécifiques sans affecter la version principale (master).
 
-  **`clône:`**une copie locale d'un dépôt sur votre ordinateur.
+  **`clône : `** une copie locale d'un dépôt sur votre ordinateur.
 
-  **`forks:`**copie du dépôt d'origine sur votre compte GitHub.
+  **`forks : `** copie du dépôt d'origine sur votre compte GitHub.
 
-  **`demande de fusion`**(pull request):demande d'intégration des modifications d'une branche à une autre.
+  **`demande de fusion`** (pull request) : demande d'intégration des modifications d'une branche à une autre.
 
-  **`issues:`**section de gestion des bugs et des améliorations proposées pour un projet.
+  **`issues:`** section de gestion des bugs et des améliorations proposées pour un projet.
 
 
   - Github Desktop : 
