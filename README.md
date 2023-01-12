@@ -80,7 +80,7 @@ Voyons une liste des termes couramment utilisé sur Github:
 
   **`demande de fusion`** (pull request) = demande d'intégration des modifications d'une branche à une autre.
 
-  **`issues = `** section de gestion des bugs et des améliorations proposées pour un projet.
+  **`issues `** = section de gestion des bugs et des améliorations proposées pour un projet.
 
 
   - Github Desktop : 
