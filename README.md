@@ -68,19 +68,19 @@ Pour s'approprier un peu l'outil, nous allons forker le projet, puis nous allons
 
 Voyons une liste des termes couramment utilisé sur Github: 
 
-  **`dépôt`**(repository) : espace de stockage centralisé pour les fichiers d'un projet.
+  **`dépôt`**(repository) = espace de stockage centralisé pour les fichiers d'un projet.
   
-  **`commit:`** enregistrement des modifications apportées aux fichiers dans le dépôt.
+  **`commit `** = enregistrement des modifications apportées aux fichiers dans le dépôt.
   
-  **`branche`**(branch) : une version séparée du dépôt qui permet de travailler sur des fonctionnalités spécifiques sans affecter la version principale (master).
+  **`branche`**(branch) =  une version séparée du dépôt qui permet de travailler sur des fonctionnalités spécifiques sans affecter la version principale (master).
 
-  **`clône : `** une copie locale d'un dépôt sur votre ordinateur.
+  **`clône `** = une copie locale d'un dépôt sur votre ordinateur.
 
-  **`forks : `** copie du dépôt d'origine sur votre compte GitHub.
+  **`forks `** = copie du dépôt d'origine sur votre compte GitHub.
 
-  **`demande de fusion`** (pull request) : demande d'intégration des modifications d'une branche à une autre.
+  **`demande de fusion`** (pull request) = demande d'intégration des modifications d'une branche à une autre.
 
-  **`issues:`** section de gestion des bugs et des améliorations proposées pour un projet.
+  **`issues = `** section de gestion des bugs et des améliorations proposées pour un projet.
 
 
   - Github Desktop : 
