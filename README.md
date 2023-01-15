@@ -52,6 +52,8 @@ Mais Visual Studio Code à l’avantage de relier plusieurs application, tel que
   
   **`echo`**: affiche du texte à l'écran
   
+  **`pwd`**: permet de savoir le repertoire dans lequel on se trouve
+  
 </details>
   
   
