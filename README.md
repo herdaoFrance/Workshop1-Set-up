@@ -33,7 +33,7 @@ Mais Visual Studio Code à l’avantage de relier plusieurs application, tel que
   
   - Installation de yarn ( similaire à npm, c'est un gestionnaire de paquet, permettant l'installation des bibliothèques et des librairies).
   ```bash
-  npm install yarn
+npm install --global yarn
   ```
   
   - Le terminal: déjà installer sur VS Code. Voici les commandes prinipales sur le terminal. 
